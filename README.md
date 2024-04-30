@@ -1,3 +1,3 @@
 # Guitar LA
 ## Index
-![Imagen principal guitarLA](/../img/principal_guitar_la.JPG)
+![Imagen principal guitarLA](/../main/img/principal_guitar_la.JPG)
