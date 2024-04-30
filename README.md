@@ -9,7 +9,7 @@ visita el sitio:
 
 ## Nosotros
 
-![Imagen nosotros guitarLA](/../main/img/guitar_la_nosotros.PNG)
+![Imagen nosotros guitarLA](/../main/img/guitar_la_nosotros.JPG)
 
 ## Blog
 
