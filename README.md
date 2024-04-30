@@ -1,4 +1,4 @@
-# Guitar LA
+# Guitar LA :guitar:
 
 visita el sitio:
 [https://omygarcia.github.io/guitar-la/index.html](https://omygarcia.github.io/guitar-la/index.html).
